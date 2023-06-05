@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FK.BankApp.Web.props" />
+</Project>

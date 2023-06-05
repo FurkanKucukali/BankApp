@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i9bqMWoS0+AiYltcwAiHQ0YSsTsop/28txPl88SPnRI=",
+  "Source": "FK.BankApp.Web",
+  "BasePath": "_content/FK.BankApp.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
