@@ -1,11 +1,37 @@
 {
   "Version": 1,
-  "Hash": "i9bqMWoS0+AiYltcwAiHQ0YSsTsop/28txPl88SPnRI=",
+  "Hash": "mBwByQxMptTrObQhxKlrOnTuooxwk2OV6i6aFOvY21w=",
   "Source": "FK.BankApp.Web",
   "BasePath": "_content/FK.BankApp.Web",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "FK.BankApp.Web\\wwwroot",
+      "Source": "FK.BankApp.Web",
+      "ContentRoot": "C:\\Users\\fkucukali\\source\\repos\\FK.BankApp\\FK.BankApp.Web\\wwwroot\\",
+      "BasePath": "_content/FK.BankApp.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\fkucukali\\source\\repos\\FK.BankApp\\FK.BankApp.Web\\wwwroot\\css\\style.css",
+      "SourceId": "FK.BankApp.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fkucukali\\source\\repos\\FK.BankApp\\FK.BankApp.Web\\wwwroot\\",
+      "BasePath": "_content/FK.BankApp.Web",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
 }
